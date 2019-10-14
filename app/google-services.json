@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179287719261",
+    "firebase_url": "https://chat22-bcfb7.firebaseio.com",
+    "project_id": "chat22-bcfb7",
+    "storage_bucket": "chat22-bcfb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179287719261:android:5cf30bdc10706d661f3cb4",
+        "android_client_info": {
+          "package_name": "cr.una.chat22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179287719261-76arihsahud40pig20jvhhhh0ur8lagm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cr.una.chat22",
+            "certificate_hash": "6011006ef1aa5b2f5fb64dc5311ef07256bb2815"
+          }
+        },
+        {
+          "client_id": "179287719261-h9qc489s8fimntbb6d7ffcdt2151ktgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ6SXPGG16BxAleMrHoCQFlKv3B_kVy7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179287719261-h9qc489s8fimntbb6d7ffcdt2151ktgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
